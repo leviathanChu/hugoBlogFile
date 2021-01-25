@@ -41,7 +41,7 @@ featuredImagePreview:
 
 > * **查看文件历次commit提交的情况**
 >
-> * ![](gitlog.PNG)
+> * ![](/gitlog.PNG)
 >
 >   **commit后面的数字是提交的编号**
 >
@@ -53,7 +53,7 @@ featuredImagePreview:
 
 > **用法：`git reset --hard HEAD^`表示回退到前一个版本**
 >
-> ![](gitreset.PNG)
+> ![](/gitreset.PNG)
 >
 > **发现最早的版本记录没了**
 >
@@ -85,7 +85,7 @@ featuredImagePreview:
 
 ### 小结
 
-![](小结.PNG)
+![](/小结.PNG)
 
 ## 删除文件
 
@@ -93,9 +93,9 @@ featuredImagePreview:
 
 ## 链接远程库
 
-![](连接远程库1.PNG)
+![](/连接远程库1.PNG)
 
-![](连接远程库2.PNG)
+![](/连接远程库2.PNG)
 
 * `git remote -v`查看远程仓库
 
